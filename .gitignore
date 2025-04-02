@@ -1,2 +1,3 @@
 lkd_env
 .env
+*.log
